@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "467877661436",
+    "project_id": "pictpo",
+    "storage_bucket": "pictpo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467877661436:android:ab74758f5c0d14f0c66579",
+        "android_client_info": {
+          "package_name": "com.example.pictpo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467877661436-ditei51qf8935kqgq8ahct7vv0885e1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIOX-fpPRSKVnggBxMLKnZFyZO6eldiI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467877661436-ditei51qf8935kqgq8ahct7vv0885e1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
